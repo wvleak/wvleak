@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/wvleak" target="blank"><img src="https://img.shields.io/twitter/follow/wvleak?logo=twitter&style=for-the-badge" alt="wvleak" /></a> </p>
 
-- 🔭 I’m currently working on **Token Beats**
-
 - 🌱 I’m currently learning **Web3 Security**
 
 - 📫 How to reach me **contact@mteouri.com**
