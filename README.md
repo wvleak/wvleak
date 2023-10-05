@@ -1,14 +1,18 @@
 ![1](https://github.com/wvleak/wvleak/assets/73338115/c310be47-3ea3-4197-89bc-d5f69824f8b4)
 <h1 align="center">Hi 👋, I'm Maleak</h1>
-<h3 align="center">An aspiring Web3 Security Researcher</h3>
+<h3 align="center">Web3 Security Researcher / Developer</h3>
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
 <p align="left"> <a href="https://twitter.com/wvleak" target="blank"><img src="https://img.shields.io/twitter/follow/wvleak?logo=twitter&style=for-the-badge" alt="wvleak" /></a> </p>
 
-- 🌱 I’m currently learning **Web3 Security**
+- 👷‍♂️🏗 I’m currently working on **Web3 Security**
+  
+- 💬 Ask me about Solidity
 
 - 📫 How to reach me **contact@mteouri.com**
+
+- 📄 Know more about me https://mteouri.com/
 
 - ⚡ Fun fact **I like dolphins**
 
