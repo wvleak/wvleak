@@ -1,4 +1,4 @@
-![1](https://github.com/wvleak/wvleak/assets/73338115/c310be47-3ea3-4197-89bc-d5f69824f8b4)
+![Copie de Copie de Black Minimal Motivation Quote LinkedIn Banner](https://github.com/wvleak/wvleak/assets/73338115/9d6e2a8c-a5df-48ba-b822-a2999ee93e44)
 <h1 align="center">Hi 👋, I'm Maleak</h1>
 <h3 align="center">Web3 Security Researcher / Developer</h3>
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
